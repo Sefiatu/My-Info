@@ -1,1 +1,1 @@
-https://github.com/Sefiatu/My-Info.git
+https://sefiatu.github.io/My-Info/
